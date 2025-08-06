@@ -73,3 +73,12 @@ This app simplifies learning by:
 ---
 
 Built by The Matrix with 💙 for IBM SkillsBuild Project 2025.
+
+## The Memebers
+1. Akshay Sharma
+2. Arijit Dey
+3. Sanjana Verma
+4. Nisha Shaw 
+5. Ritwika Banik 
+6. Moumita Bapari
+7. Ashis Paul 
