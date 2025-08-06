@@ -1,0 +1,174 @@
+{
+  "intermediate": {
+    "Algebra (linear equations, expressions)": [
+      {
+        "question": "Solve for x: 3x + 5 = 20",
+        "options": ["5", "10", "15"],
+        "answer": "5",
+        "topic": "Algebra (linear equations, expressions)"
+      },
+      {
+        "question": "What is the simplified form of the expression: 2x + 3x - 4?",
+        "options": ["5x - 4", "x - 4", "5x + 4"],
+        "answer": "5x - 4",
+        "topic": "Algebra (linear equations, expressions)"
+      },
+      {
+        "question": "Factor: x² - 7x + 10",
+        "options": ["(x - 5)(x - 2)", "(x + 5)(x - 2)", "(x - 5)(x + 2)"],
+        "answer": "(x - 5)(x - 2)",
+        "topic": "Algebra (linear equations, expressions)"
+      },
+      {
+        "question": "What is the value of x if 2x - 1 = 3x + 4?",
+        "options": ["-5", "5", "1"],
+        "answer": "-5",
+        "topic": "Algebra (linear equations, expressions)"
+      },
+      {
+        "question": "Simplify: (3x + 2)(x - 1)",
+        "options": ["3x² - x - 2", "3x² - x + 2", "3x² - x - 2"],
+        "answer": "3x² - x - 2",
+        "topic": "Algebra (linear equations, expressions)"
+      },
+      {
+        "question": "What is the solution of the equation: x/2 + 3 = 7?",
+        "options": ["2", "6", "8"],
+        "answer": "8",
+        "topic": "Algebra (linear equations, expressions)"
+      },
+      {
+        "question": "Which of the following represents a linear equation?",
+        "options": ["x² + y = 1", "2x + 3 = 0", "x³ = 8"],
+        "answer": "2x + 3 = 0",
+        "topic": "Algebra (linear equations, expressions)"
+      },
+      {
+        "question": "If f(x) = 2x + 1, what is f(3)?",
+        "options": ["5", "6", "7"],
+        "answer": "7",
+        "topic": "Algebra (linear equations, expressions)"
+      },
+      {
+        "question": "Expand: (x + 4)²",
+        "options": ["x² + 8x + 16", "x² + 4", "x² + 16"],
+        "answer": "x² + 8x + 16",
+        "topic": "Algebra (linear equations, expressions)"
+      }
+    ],
+
+    "Matrices and Determinants": [
+      {
+        "question": "What is the order of a matrix with 3 rows and 2 columns?",
+        "options": ["2 × 3", "3 × 2", "3 × 3"],
+        "answer": "3 × 2",
+        "topic": "Matrices and Determinants"
+      },
+      {
+        "question": "What is the determinant of a 2×2 matrix [[a, b], [c, d]]?",
+        "options": ["ad - bc", "ab + cd", "ac - bd"],
+        "answer": "ad - bc",
+        "topic": "Matrices and Determinants"
+      },
+      {
+        "question": "Find the determinant of the matrix [[2, 3], [1, 4]]",
+        "options": ["5", "8", "5"],
+        "answer": "5",
+        "topic": "Matrices and Determinants"
+      },
+      {
+        "question": "Which matrix is the identity matrix for 2x2?",
+        "options": ["[[1,0],[0,1]]", "[[0,1],[1,0]]", "[[1,1],[1,1]]"],
+        "answer": "[[1,0],[0,1]]",
+        "topic": "Matrices and Determinants"
+      },
+      {
+        "question": "Matrix A has dimensions 2x3. Matrix B has dimensions 3x2. Can you multiply A × B?",
+        "options": ["Yes", "No", "Only if square"],
+        "answer": "Yes",
+        "topic": "Matrices and Determinants"
+      },
+      {
+        "question": "What is the transpose of matrix [[1, 2], [3, 4]]?",
+        "options": ["[[1, 2], [3, 4]]", "[[1, 3], [2, 4]]", "[[4, 3], [2, 1]]"],
+        "answer": "[[1, 3], [2, 4]]",
+        "topic": "Matrices and Determinants"
+      },
+      {
+        "question": "If A = [[1, 2], [3, 4]], find A + A",
+        "options": ["[[2, 4], [6, 8]]", "[[1, 2], [3, 4]]", "[[0, 0], [0, 0]]"],
+        "answer": "[[2, 4], [6, 8]]",
+        "topic": "Matrices and Determinants"
+      },
+      {
+        "question": "Which operation is NOT defined for two matrices of different dimensions?",
+        "options": ["Addition", "Multiplication", "Transpose"],
+        "answer": "Addition",
+        "topic": "Matrices and Determinants"
+      },
+      {
+        "question": "What type of matrix has all elements zero except for the main diagonal?",
+        "options": ["Diagonal matrix", "Zero matrix", "Identity matrix"],
+        "answer": "Diagonal matrix",
+        "topic": "Matrices and Determinants"
+      }
+    ],
+
+    "Trigonometry & Complex Numbers": [
+      {
+        "question": "What is sin(90°)?",
+        "options": ["0", "1", "Undefined"],
+        "answer": "1",
+        "topic": "Trigonometry & Complex Numbers"
+      },
+      {
+        "question": "What is the value of cos(0°)?",
+        "options": ["1", "0", "Undefined"],
+        "answer": "1",
+        "topic": "Trigonometry & Complex Numbers"
+      },
+      {
+        "question": "What is the value of tan(45°)?",
+        "options": ["0", "1", "√3"],
+        "answer": "1",
+        "topic": "Trigonometry & Complex Numbers"
+      },
+      {
+        "question": "Which identity is true?",
+        "options": ["sin²θ + cos²θ = 1", "sinθ × cosθ = 1", "tanθ = sinθ - cosθ"],
+        "answer": "sin²θ + cos²θ = 1",
+        "topic": "Trigonometry & Complex Numbers"
+      },
+      {
+        "question": "What is the imaginary unit i equal to?",
+        "options": ["√1", "-1", "√-1"],
+        "answer": "√-1",
+        "topic": "Trigonometry & Complex Numbers"
+      },
+      {
+        "question": "Simplify: i²",
+        "options": ["1", "-1", "i"],
+        "answer": "-1",
+        "topic": "Trigonometry & Complex Numbers"
+      },
+      {
+        "question": "Which of these is a complex number?",
+        "options": ["3 + 2i", "√2", "π"],
+        "answer": "3 + 2i",
+        "topic": "Trigonometry & Complex Numbers"
+      },
+      {
+        "question": "What is the modulus of the complex number 3 + 4i?",
+        "options": ["5", "7", "25"],
+        "answer": "5",
+        "topic": "Trigonometry & Complex Numbers"
+      },
+      {
+        "question": "Convert 60° to radians.",
+        "options": ["π/2", "π/3", "π/6"],
+        "answer": "π/3",
+        "topic": "Trigonometry & Complex Numbers"
+      }
+    ]
+  }
+}

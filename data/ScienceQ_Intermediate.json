@@ -1,0 +1,172 @@
+{
+  "intermediate": {
+    "Human Body Systems (nervous, digestive, etc.)": [
+      {
+        "question": "Which system controls body functions and sends signals throughout the body?",
+        "options": ["Digestive system", "Nervous system", "Respiratory system"],
+        "answer": "Nervous system",
+        "topic": "Human Body Systems (nervous, digestive, etc.)"
+      },
+      {
+        "question": "What organ is primarily responsible for digesting food?",
+        "options": ["Heart", "Stomach", "Lungs"],
+        "answer": "Stomach",
+        "topic": "Human Body Systems (nervous, digestive, etc.)"
+      },
+      {
+        "question": "Which organ pumps blood throughout the body?",
+        "options": ["Liver", "Heart", "Kidney"],
+        "answer": "Heart",
+        "topic": "Human Body Systems (nervous, digestive, etc.)"
+      },
+      {
+        "question": "What system includes bones and muscles?",
+        "options": ["Skeletal and muscular system", "Circulatory system", "Nervous system"],
+        "answer": "Skeletal and muscular system",
+        "topic": "Human Body Systems (nervous, digestive, etc.)"
+      },
+      {
+        "question": "Which organ filters waste from the blood?",
+        "options": ["Kidneys", "Lungs", "Brain"],
+        "answer": "Kidneys",
+        "topic": "Human Body Systems (nervous, digestive, etc.)"
+      },
+      {
+        "question": "Which part of the brain controls voluntary movements?",
+        "options": ["Cerebellum", "Cerebrum", "Medulla"],
+        "answer": "Cerebrum",
+        "topic": "Human Body Systems (nervous, digestive, etc.)"
+      },
+      {
+        "question": "What type of muscle is found in the heart?",
+        "options": ["Skeletal muscle", "Smooth muscle", "Cardiac muscle"],
+        "answer": "Cardiac muscle",
+        "topic": "Human Body Systems (nervous, digestive, etc.)"
+      },
+      {
+        "question": "Which system helps you breathe and exchange gases?",
+        "options": ["Respiratory system", "Digestive system", "Nervous system"],
+        "answer": "Respiratory system",
+        "topic": "Human Body Systems (nervous, digestive, etc.)"
+      },
+      {
+        "question": "Which organ produces bile to help digest fats?",
+        "options": ["Liver", "Pancreas", "Kidney"],
+        "answer": "Liver",
+        "topic": "Human Body Systems (nervous, digestive, etc.)"
+      }
+    ],
+    "Forces and Motion": [
+      {
+        "question": "What force pulls objects toward the Earth?",
+        "options": ["Magnetism", "Gravity", "Friction"],
+        "answer": "Gravity",
+        "topic": "Forces and Motion"
+      },
+      {
+        "question": "Which force opposes motion between two surfaces?",
+        "options": ["Friction", "Gravity", "Magnetism"],
+        "answer": "Friction",
+        "topic": "Forces and Motion"
+      },
+      {
+        "question": "What is the formula for speed?",
+        "options": ["Distance × Time", "Distance ÷ Time", "Time ÷ Distance"],
+        "answer": "Distance ÷ Time",
+        "topic": "Forces and Motion"
+      },
+      {
+        "question": "What kind of motion does a thrown ball follow?",
+        "options": ["Straight line", "Curved path", "No motion"],
+        "answer": "Curved path",
+        "topic": "Forces and Motion"
+      },
+      {
+        "question": "What happens to an object’s motion if the net force acting on it is zero?",
+        "options": ["It accelerates", "It stays at rest or moves at constant speed", "It stops immediately"],
+        "answer": "It stays at rest or moves at constant speed",
+        "topic": "Forces and Motion"
+      },
+      {
+        "question": "Which force causes a magnet to attract metal objects?",
+        "options": ["Electric force", "Magnetic force", "Gravitational force"],
+        "answer": "Magnetic force",
+        "topic": "Forces and Motion"
+      },
+      {
+        "question": "Newton’s first law is also called the law of ___.",
+        "options": ["Acceleration", "Inertia", "Gravity"],
+        "answer": "Inertia",
+        "topic": "Forces and Motion"
+      },
+      {
+        "question": "What type of energy does a moving object have?",
+        "options": ["Potential energy", "Kinetic energy", "Thermal energy"],
+        "answer": "Kinetic energy",
+        "topic": "Forces and Motion"
+      },
+      {
+        "question": "If you increase the mass of an object, what happens to the force needed to move it?",
+        "options": ["Force decreases", "Force stays the same", "Force increases"],
+        "answer": "Force increases",
+        "topic": "Forces and Motion"
+      }
+    ],
+    "Chemical Reactions and Equations": [
+      {
+        "question": "What are the substances called that enter a chemical reaction?",
+        "options": ["Products", "Reactants", "Catalysts"],
+        "answer": "Reactants",
+        "topic": "Chemical Reactions and Equations"
+      },
+      {
+        "question": "What is produced at the end of a chemical reaction?",
+        "options": ["Reactants", "Products", "Enzymes"],
+        "answer": "Products",
+        "topic": "Chemical Reactions and Equations"
+      },
+      {
+        "question": "Which of the following is a sign that a chemical reaction has occurred?",
+        "options": ["Change in color", "Melting", "Freezing"],
+        "answer": "Change in color",
+        "topic": "Chemical Reactions and Equations"
+      },
+      {
+        "question": "What does the arrow (→) in a chemical equation mean?",
+        "options": ["Equals", "Produces", "Plus"],
+        "answer": "Produces",
+        "topic": "Chemical Reactions and Equations"
+      },
+      {
+        "question": "What do we call a substance that speeds up a chemical reaction without being used up?",
+        "options": ["Reactant", "Catalyst", "Product"],
+        "answer": "Catalyst",
+        "topic": "Chemical Reactions and Equations"
+      },
+      {
+        "question": "Which gas is released when baking soda reacts with vinegar?",
+        "options": ["Oxygen", "Carbon dioxide", "Nitrogen"],
+        "answer": "Carbon dioxide",
+        "topic": "Chemical Reactions and Equations"
+      },
+      {
+        "question": "In a balanced chemical equation, the number of atoms on both sides is ___.",
+        "options": ["Different", "The same", "Unknown"],
+        "answer": "The same",
+        "topic": "Chemical Reactions and Equations"
+      },
+      {
+        "question": "Which of the following is an example of a chemical change?",
+        "options": ["Melting ice", "Burning wood", "Cutting paper"],
+        "answer": "Burning wood",
+        "topic": "Chemical Reactions and Equations"
+      },
+      {
+        "question": "What is the chemical formula for water?",
+        "options": ["H2O", "CO2", "O2"],
+        "answer": "H2O",
+        "topic": "Chemical Reactions and Equations"
+      }
+    ]
+  }
+}

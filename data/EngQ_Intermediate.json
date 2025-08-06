@@ -1,0 +1,224 @@
+{
+  "intermediate": {
+    "Tenses & Verb Forms": [
+      {
+        "question": "Choose the correct tense: 'She ___ to the store yesterday.'",
+        "options": ["go", "went", "gone"],
+        "answer": "went",
+        "topic": "Tenses & Verb Forms"
+      },
+      {
+        "question": "Identify the verb tense: 'I have been studying all night.'",
+        "options": ["Past Simple", "Present Perfect Continuous", "Future Perfect"],
+        "answer": "Present Perfect Continuous",
+        "topic": "Tenses & Verb Forms"
+      },
+      {
+        "question": "Which sentence uses the past perfect correctly?",
+        "options": [
+          "She had ate dinner.",
+          "She has eaten dinner.",
+          "She had eaten dinner before he arrived."
+        ],
+        "answer": "She had eaten dinner before he arrived.",
+        "topic": "Tenses & Verb Forms"
+      },
+      {
+        "question": "What is the future perfect tense of 'They finish the project'?",
+        "options": [
+          "They will finish the project.",
+          "They will be finishing the project.",
+          "They will have finished the project."
+        ],
+        "answer": "They will have finished the project.",
+        "topic": "Tenses & Verb Forms"
+      },
+      {
+        "question": "Which sentence is in the present continuous tense?",
+        "options": [
+          "He is playing football.",
+          "He plays football.",
+          "He played football."
+        ],
+        "answer": "He is playing football.",
+        "topic": "Tenses & Verb Forms"
+      },
+      {
+        "question": "Identify the correct verb form: 'They ___ here since morning.'",
+        "options": ["are", "have been", "were"],
+        "answer": "have been",
+        "topic": "Tenses & Verb Forms"
+      },
+      {
+        "question": "Which verb tense is used in this sentence: 'By next year, I will have graduated'?",
+        "options": ["Future Perfect", "Present Perfect", "Past Perfect"],
+        "answer": "Future Perfect",
+        "topic": "Tenses & Verb Forms"
+      },
+      {
+        "question": "Choose the correct verb form: 'He ___ already eaten.'",
+        "options": ["has", "have", "had"],
+        "answer": "has",
+        "topic": "Tenses & Verb Forms"
+      },
+      {
+        "question": "Find the correct sentence.",
+        "options": [
+          "She is goes to school.",
+          "She is going to school.",
+          "She going to school."
+        ],
+        "answer": "She is going to school.",
+        "topic": "Tenses & Verb Forms"
+      }
+    ],
+    "Prepositions & Phrases": [
+      {
+        "question": "Choose the correct preposition: 'The book is ___ the table.'",
+        "options": ["in", "on", "at"],
+        "answer": "on",
+        "topic": "Prepositions & Phrases"
+      },
+      {
+        "question": "Which prepositional phrase shows time?",
+        "options": ["on the table", "before sunset", "under the bed"],
+        "answer": "before sunset",
+        "topic": "Prepositions & Phrases"
+      },
+      {
+        "question": "Fill in the blank: 'He apologized ___ being late.'",
+        "options": ["to", "for", "on"],
+        "answer": "for",
+        "topic": "Prepositions & Phrases"
+      },
+      {
+        "question": "Select the correct preposition: 'She arrived ___ the airport on time.'",
+        "options": ["in", "at", "to"],
+        "answer": "at",
+        "topic": "Prepositions & Phrases"
+      },
+      {
+        "question": "Which sentence contains a place-based prepositional phrase?",
+        "options": [
+          "We met after class.",
+          "The cat slept under the table.",
+          "He called before noon."
+        ],
+        "answer": "The cat slept under the table.",
+        "topic": "Prepositions & Phrases"
+      },
+      {
+        "question": "Fill in the blank: 'They walked ___ the park together.'",
+        "options": ["into", "through", "across"],
+        "answer": "through",
+        "topic": "Prepositions & Phrases"
+      },
+      {
+        "question": "Choose the correct option: 'The manager was angry ___ the mistake.'",
+        "options": ["on", "with", "for"],
+        "answer": "with",
+        "topic": "Prepositions & Phrases"
+      },
+      {
+        "question": "Which phrase shows direction?",
+        "options": ["towards the door", "in the morning", "under the bed"],
+        "answer": "towards the door",
+        "topic": "Prepositions & Phrases"
+      },
+      {
+        "question": "Select the right preposition: 'He lives ___ his parents.'",
+        "options": ["with", "to", "on"],
+        "answer": "with",
+        "topic": "Prepositions & Phrases"
+      }
+    ],
+    "Sentence Correction & Transformation": [
+      {
+        "question": "Identify the error: 'She don’t like coffee.'",
+        "options": ["Subject-verb agreement", "Verb tense", "Preposition usage"],
+        "answer": "Subject-verb agreement",
+        "topic": "Sentence Correction & Transformation"
+      },
+      {
+        "question": "Which sentence is correctly transformed into passive voice?",
+        "options": [
+          "The cake was baked by Mary.",
+          "Mary bakes was the cake.",
+          "Was the cake by Mary baked."
+        ],
+        "answer": "The cake was baked by Mary.",
+        "topic": "Sentence Correction & Transformation"
+      },
+      {
+        "question": "Combine the two sentences correctly: 'He is smart. He is lazy.'",
+        "options": [
+          "He is smart and lazy.",
+          "Smart he is, lazy too.",
+          "He is smart but also lazy."
+        ],
+        "answer": "He is smart but also lazy.",
+        "topic": "Sentence Correction & Transformation"
+      },
+      {
+        "question": "Correct the sentence: 'He didn’t went to school.'",
+        "options": [
+          "He didn’t go to school.",
+          "He doesn't went to school.",
+          "He don’t go to school."
+        ],
+        "answer": "He didn’t go to school.",
+        "topic": "Sentence Correction & Transformation"
+      },
+      {
+        "question": "What’s the correct transformation? 'She sings well.' → Passive Voice",
+        "options": [
+          "Well is sung by her.",
+          "She is sung well.",
+          "This sentence can't be changed to passive."
+        ],
+        "answer": "This sentence can't be changed to passive.",
+        "topic": "Sentence Correction & Transformation"
+      },
+      {
+        "question": "Identify the correct sentence.",
+        "options": [
+          "He has went to the market.",
+          "He has gone to the market.",
+          "He gone to the market."
+        ],
+        "answer": "He has gone to the market.",
+        "topic": "Sentence Correction & Transformation"
+      },
+      {
+        "question": "Combine: 'It rained. We stayed home.'",
+        "options": [
+          "Because it rained, we stayed home.",
+          "It rained, so stayed home we.",
+          "Rained it, we stayed."
+        ],
+        "answer": "Because it rained, we stayed home.",
+        "topic": "Sentence Correction & Transformation"
+      },
+      {
+        "question": "Fix the sentence: 'Their going to the mall.'",
+        "options": [
+          "They're going to the mall.",
+          "There going to the mall.",
+          "They going to the mall."
+        ],
+        "answer": "They're going to the mall.",
+        "topic": "Sentence Correction & Transformation"
+      },
+      {
+        "question": "Choose the correct transformation: 'He can play the piano.' → Passive Voice",
+        "options": [
+          "The piano can be played by him.",
+          "He is can play the piano.",
+          "The piano played can be by him."
+        ],
+        "answer": "The piano can be played by him.",
+        "topic": "Sentence Correction & Transformation"
+      }
+    ]
+  }
+}

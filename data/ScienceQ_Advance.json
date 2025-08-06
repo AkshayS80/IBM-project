@@ -1,0 +1,174 @@
+{
+  "advance": {
+    "Genetics and DNA": [
+      {
+        "question": "What is the molecule that carries genetic instructions in living organisms?",
+        "options": ["RNA", "DNA", "Protein"],
+        "answer": "DNA",
+        "topic": "Genetics and DNA"
+      },
+      {
+        "question": "Which process involves copying DNA to produce RNA?",
+        "options": ["Translation", "Replication", "Transcription"],
+        "answer": "Transcription",
+        "topic": "Genetics and DNA"
+      },
+      {
+        "question": "What are the building blocks of DNA?",
+        "options": ["Amino acids", "Nucleotides", "Fatty acids"],
+        "answer": "Nucleotides",
+        "topic": "Genetics and DNA"
+      },
+      {
+        "question": "Which base pairs with adenine in DNA?",
+        "options": ["Thymine", "Cytosine", "Guanine"],
+        "answer": "Thymine",
+        "topic": "Genetics and DNA"
+      },
+      {
+        "question": "What term describes different forms of a gene?",
+        "options": ["Alleles", "Chromosomes", "Genomes"],
+        "answer": "Alleles",
+        "topic": "Genetics and DNA"
+      },
+      {
+        "question": "Mendel is known as the father of which science field?",
+        "options": ["Genetics", "Biochemistry", "Evolution"],
+        "answer": "Genetics",
+        "topic": "Genetics and DNA"
+      },
+      {
+        "question": "What is the structure of DNA often described as?",
+        "options": ["Double helix", "Single strand", "Triple helix"],
+        "answer": "Double helix",
+        "topic": "Genetics and DNA"
+      },
+      {
+        "question": "Which organelle is the site of protein synthesis?",
+        "options": ["Ribosome", "Nucleus", "Mitochondria"],
+        "answer": "Ribosome",
+        "topic": "Genetics and DNA"
+      },
+      {
+        "question": "Mutations are changes in the sequence of what?",
+        "options": ["Proteins", "Lipids", "DNA"],
+        "answer": "DNA",
+        "topic": "Genetics and DNA"
+      }
+    ],
+
+    "Thermodynamics and Laws of Motion": [
+      {
+        "question": "Which law of thermodynamics states that energy cannot be created or destroyed?",
+        "options": ["First law", "Second law", "Third law"],
+        "answer": "First law",
+        "topic": "Thermodynamics and Laws of Motion"
+      },
+      {
+        "question": "Newton's second law states that Force equals mass times ___.",
+        "options": ["Acceleration", "Velocity", "Displacement"],
+        "answer": "Acceleration",
+        "topic": "Thermodynamics and Laws of Motion"
+      },
+      {
+        "question": "What is the term for the total disorder or randomness in a system?",
+        "options": ["Entropy", "Enthalpy", "Energy"],
+        "answer": "Entropy",
+        "topic": "Thermodynamics and Laws of Motion"
+      },
+      {
+        "question": "According to Newton's third law, every action has an equal and opposite ___.",
+        "options": ["Force", "Energy", "Momentum"],
+        "answer": "Force",
+        "topic": "Thermodynamics and Laws of Motion"
+      },
+      {
+        "question": "Which law of thermodynamics defines absolute zero temperature?",
+        "options": ["First law", "Second law", "Third law"],
+        "answer": "Third law",
+        "topic": "Thermodynamics and Laws of Motion"
+      },
+      {
+        "question": "The tendency of heat to flow from a hotter object to a cooler one is described by which law?",
+        "options": ["Zeroth law", "Second law", "First law"],
+        "answer": "Second law",
+        "topic": "Thermodynamics and Laws of Motion"
+      },
+      {
+        "question": "What physical quantity is conserved in an isolated system according to Newton's laws?",
+        "options": ["Momentum", "Temperature", "Pressure"],
+        "answer": "Momentum",
+        "topic": "Thermodynamics and Laws of Motion"
+      },
+      {
+        "question": "The unit of force in the International System (SI) is called ___.",
+        "options": ["Newton", "Joule", "Pascal"],
+        "answer": "Newton",
+        "topic": "Thermodynamics and Laws of Motion"
+      },
+      {
+        "question": "Work done on an object is equal to which of the following?",
+        "options": ["Force × Displacement", "Mass × Velocity", "Pressure × Volume"],
+        "answer": "Force × Displacement",
+        "topic": "Thermodynamics and Laws of Motion"
+      }
+    ],
+
+    "Atomic Structure and Quantum Mechanic": [
+      {
+        "question": "What particles make up the nucleus of an atom?",
+        "options": ["Electrons and protons", "Protons and neutrons", "Neutrons and electrons"],
+        "answer": "Protons and neutrons",
+        "topic": "Atomic Structure and Quantum Mechanic"
+      },
+      {
+        "question": "Who proposed the planetary model of the atom?",
+        "options": ["Thomson", "Rutherford", "Bohr"],
+        "answer": "Rutherford",
+        "topic": "Atomic Structure and Quantum Mechanic"
+      },
+      {
+        "question": "What is the smallest unit of an element that retains its chemical properties?",
+        "options": ["Molecule", "Atom", "Ion"],
+        "answer": "Atom",
+        "topic": "Atomic Structure and Quantum Mechanic"
+      },
+      {
+        "question": "Which quantum number describes the shape of an electron’s orbital?",
+        "options": ["Principal quantum number", "Azimuthal quantum number", "Magnetic quantum number"],
+        "answer": "Azimuthal quantum number",
+        "topic": "Atomic Structure and Quantum Mechanic"
+      },
+      {
+        "question": "What principle states that two electrons cannot have the same set of quantum numbers?",
+        "options": ["Pauli exclusion principle", "Heisenberg uncertainty principle", "Hund's rule"],
+        "answer": "Pauli exclusion principle",
+        "topic": "Atomic Structure and Quantum Mechanic"
+      },
+      {
+        "question": "The dual nature of light as both wave and particle is explained by ___.",
+        "options": ["Quantum theory", "Classical mechanics", "Newtonian physics"],
+        "answer": "Quantum theory",
+        "topic": "Atomic Structure and Quantum Mechanic"
+      },
+      {
+        "question": "What is the name of the effect that demonstrates the particle nature of light?",
+        "options": ["Photoelectric effect", "Compton scattering", "Diffraction"],
+        "answer": "Photoelectric effect",
+        "topic": "Atomic Structure and Quantum Mechanic"
+      },
+      {
+        "question": "Electrons occupy energy levels called ___.",
+        "options": ["Shells", "Valence bonds", "Ions"],
+        "answer": "Shells",
+        "topic": "Atomic Structure and Quantum Mechanic"
+      },
+      {
+        "question": "Which scientist developed the uncertainty principle in quantum mechanics?",
+        "options": ["Schrödinger", "Heisenberg", "Dirac"],
+        "answer": "Heisenberg",
+        "topic": "Atomic Structure and Quantum Mechanic"
+      }
+    ]
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "basic": {
+    "Parts of Speech": [
+      {
+        "question": "Which word is a noun in this sentence: 'The cat sleeps on the mat'?",
+        "options": ["sleeps", "cat", "on"],
+        "answer": "cat",
+        "topic": "Parts of Speech"
+      },
+      {
+        "question": "Which word is a verb in: 'She dances beautifully'?",
+        "options": ["She", "dances", "beautifully"],
+        "answer": "dances",
+        "topic": "Parts of Speech"
+      },
+      {
+        "question": "What type of word is 'quickly'?",
+        "options": ["adjective", "adverb", "noun"],
+        "answer": "adverb",
+        "topic": "Parts of Speech"
+      },
+      {
+        "question": "Which word is an adjective in: 'He wore a red hat'?",
+        "options": ["red", "hat", "wore"],
+        "answer": "red",
+        "topic": "Parts of Speech"
+      },
+      {
+        "question": "What type of word is 'they'?",
+        "options": ["noun", "verb", "pronoun"],
+        "answer": "pronoun",
+        "topic": "Parts of Speech"
+      },
+      {
+        "question": "Which word is a preposition: 'The dog ran under the table'?",
+        "options": ["ran", "under", "table"],
+        "answer": "under",
+        "topic": "Parts of Speech"
+      },
+      {
+        "question": "Which is a conjunction?",
+        "options": ["and", "run", "happy"],
+        "answer": "and",
+        "topic": "Parts of Speech"
+      },
+      {
+        "question": "What type of word is 'Wow!'?",
+        "options": ["noun", "interjection", "adjective"],
+        "answer": "interjection",
+        "topic": "Parts of Speech"
+      },
+      {
+        "question": "Which word is an adverb in: 'He quickly opened the door'?",
+        "options": ["He", "opened", "quickly"],
+        "answer": "quickly",
+        "topic": "Parts of Speech"
+      }
+    ],
+
+    "Sentence Structure": [
+      {
+        "question": "Which is a complete sentence?",
+        "options": ["Ran fast.", "The dog barked.", "On the table."],
+        "answer": "The dog barked.",
+        "topic": "Sentence Structure"
+      },
+      {
+        "question": "Identify the subject: 'Lina reads every morning.'",
+        "options": ["reads", "Lina", "morning"],
+        "answer": "Lina",
+        "topic": "Sentence Structure"
+      },
+      {
+        "question": "What is the verb in: 'The kids played outside'?",
+        "options": ["kids", "played", "outside"],
+        "answer": "played",
+        "topic": "Sentence Structure"
+      },
+      {
+        "question": "Which sentence is compound?",
+        "options": [
+          "I like tea and coffee.",
+          "I like tea, but she prefers coffee.",
+          "She likes coffee."
+        ],
+        "answer": "I like tea, but she prefers coffee.",
+        "topic": "Sentence Structure"
+      },
+      {
+        "question": "Which part is the predicate: 'The sun is shining brightly'?",
+        "options": ["The sun", "is shining brightly", "brightly"],
+        "answer": "is shining brightly",
+        "topic": "Sentence Structure"
+      },
+      {
+        "question": "Which is a complex sentence?",
+        "options": [
+          "He ran fast.",
+          "I stayed home because it rained.",
+          "She danced and sang."
+        ],
+        "answer": "I stayed home because it rained.",
+        "topic": "Sentence Structure"
+      },
+      {
+        "question": "What is missing: '___ are playing.'?",
+        "options": ["Them", "They", "Their"],
+        "answer": "They",
+        "topic": "Sentence Structure"
+      },
+      {
+        "question": "Which sentence has an object?",
+        "options": ["He sleeps.", "She reads books.", "The boy laughed."],
+        "answer": "She reads books.",
+        "topic": "Sentence Structure"
+      },
+      {
+        "question": "What type of sentence is this: 'Please sit down.'?",
+        "options": ["Declarative", "Interrogative", "Imperative"],
+        "answer": "Imperative",
+        "topic": "Sentence Structure"
+      }
+    ],
+
+    "Common Vocabulary": [
+      {
+        "question": "What is the opposite of 'cold'?",
+        "options": ["warm", "snow", "wet"],
+        "answer": "warm",
+        "topic": "Common Vocabulary"
+      },
+      {
+        "question": "What is a synonym of 'big'?",
+        "options": ["tiny", "huge", "little"],
+        "answer": "huge",
+        "topic": "Common Vocabulary"
+      },
+      {
+        "question": "Which word means the same as 'happy'?",
+        "options": ["sad", "angry", "joyful"],
+        "answer": "joyful",
+        "topic": "Common Vocabulary"
+      },
+      {
+        "question": "What is the opposite of 'early'?",
+        "options": ["late", "soon", "fast"],
+        "answer": "late",
+        "topic": "Common Vocabulary"
+      },
+      {
+        "question": "What does 'quick' mean?",
+        "options": ["slow", "fast", "quiet"],
+        "answer": "fast",
+        "topic": "Common Vocabulary"
+      },
+      {
+        "question": "Which word means 'silent'?",
+        "options": ["loud", "quiet", "noisy"],
+        "answer": "quiet",
+        "topic": "Common Vocabulary"
+      },
+      {
+        "question": "Which word means the opposite of 'dark'?",
+        "options": ["light", "black", "dull"],
+        "answer": "light",
+        "topic": "Common Vocabulary"
+      },
+      {
+        "question": "Which word fits: 'The apple is very ___.'?",
+        "options": ["delicious", "think", "fast"],
+        "answer": "delicious",
+        "topic": "Common Vocabulary"
+      },
+      {
+        "question": "Which is a color?",
+        "options": ["blue", "slow", "jump"],
+        "answer": "blue",
+        "topic": "Common Vocabulary"
+      }
+    ]
+  }
+}

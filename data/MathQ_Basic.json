@@ -1,0 +1,174 @@
+{
+  "basic": {
+    "Number Systems and Operations": [
+      {
+        "question": "What is the value of 7 + 5?",
+        "options": ["11", "12", "13"],
+        "answer": "12",
+        "topic": "Number Systems and Operations"
+      },
+      {
+        "question": "Which of these is an even number?",
+        "options": ["5", "8", "13"],
+        "answer": "8",
+        "topic": "Number Systems and Operations"
+      },
+      {
+        "question": "What is the place value of 5 in the number 452?",
+        "options": ["Units", "Tens", "Hundreds"],
+        "answer": "Tens",
+        "topic": "Number Systems and Operations"
+      },
+      {
+        "question": "What is the result of 15 - 9?",
+        "options": ["5", "6", "7"],
+        "answer": "6",
+        "topic": "Number Systems and Operations"
+      },
+      {
+        "question": "Which of the following is a prime number?",
+        "options": ["4", "6", "7"],
+        "answer": "7",
+        "topic": "Number Systems and Operations"
+      },
+      {
+        "question": "What is 6 × 4?",
+        "options": ["20", "24", "26"],
+        "answer": "24",
+        "topic": "Number Systems and Operations"
+      },
+      {
+        "question": "Which number is the smallest?",
+        "options": ["19", "25", "13"],
+        "answer": "13",
+        "topic": "Number Systems and Operations"
+      },
+      {
+        "question": "What is 36 divided by 6?",
+        "options": ["5", "6", "7"],
+        "answer": "6",
+        "topic": "Number Systems and Operations"
+      },
+      {
+        "question": "What is the sum of 100 and 250?",
+        "options": ["350", "340", "360"],
+        "answer": "350",
+        "topic": "Number Systems and Operations"
+      }
+    ],
+
+    "Basic Geometry (shapes, angles, perimeter)": [
+      {
+        "question": "How many sides does a triangle have?",
+        "options": ["3", "4", "5"],
+        "answer": "3",
+        "topic": "Basic Geometry (shapes, angles, perimeter)"
+      },
+      {
+        "question": "Which shape has four equal sides and four right angles?",
+        "options": ["Rectangle", "Rhombus", "Square"],
+        "answer": "Square",
+        "topic": "Basic Geometry (shapes, angles, perimeter)"
+      },
+      {
+        "question": "What is the perimeter of a square with side length 5 cm?",
+        "options": ["10 cm", "15 cm", "20 cm"],
+        "answer": "20 cm",
+        "topic": "Basic Geometry (shapes, angles, perimeter)"
+      },
+      {
+        "question": "What is a right angle?",
+        "options": ["45 degrees", "90 degrees", "180 degrees"],
+        "answer": "90 degrees",
+        "topic": "Basic Geometry (shapes, angles, perimeter)"
+      },
+      {
+        "question": "How many sides does a hexagon have?",
+        "options": ["5", "6", "8"],
+        "answer": "6",
+        "topic": "Basic Geometry (shapes, angles, perimeter)"
+      },
+      {
+        "question": "Which shape has no straight sides?",
+        "options": ["Circle", "Square", "Triangle"],
+        "answer": "Circle",
+        "topic": "Basic Geometry (shapes, angles, perimeter)"
+      },
+      {
+        "question": "What is the name of a polygon with 8 sides?",
+        "options": ["Hexagon", "Octagon", "Decagon"],
+        "answer": "Octagon",
+        "topic": "Basic Geometry (shapes, angles, perimeter)"
+      },
+      {
+        "question": "What is the total number of degrees in a triangle?",
+        "options": ["180", "90", "360"],
+        "answer": "180",
+        "topic": "Basic Geometry (shapes, angles, perimeter)"
+      },
+      {
+        "question": "Which of these shapes always has opposite sides equal and parallel?",
+        "options": ["Trapezoid", "Rectangle", "Triangle"],
+        "answer": "Rectangle",
+        "topic": "Basic Geometry (shapes, angles, perimeter)"
+      }
+    ],
+
+    "Fractions, Decimals, and Percentages": [
+      {
+        "question": "What is 1/2 + 1/4?",
+        "options": ["1/3", "3/4", "2/4"],
+        "answer": "3/4",
+        "topic": "Fractions, Decimals, and Percentages"
+      },
+      {
+        "question": "Convert 0.75 to a fraction.",
+        "options": ["3/4", "1/2", "2/3"],
+        "answer": "3/4",
+        "topic": "Fractions, Decimals, and Percentages"
+      },
+      {
+        "question": "What is 25% of 200?",
+        "options": ["25", "50", "75"],
+        "answer": "50",
+        "topic": "Fractions, Decimals, and Percentages"
+      },
+      {
+        "question": "Which of the following is equal to 0.5?",
+        "options": ["1/4", "1/2", "3/4"],
+        "answer": "1/2",
+        "topic": "Fractions, Decimals, and Percentages"
+      },
+      {
+        "question": "What is 0.2 × 10?",
+        "options": ["2", "0.2", "20"],
+        "answer": "2",
+        "topic": "Fractions, Decimals, and Percentages"
+      },
+      {
+        "question": "What is 3/5 as a percentage?",
+        "options": ["60%", "50%", "75%"],
+        "answer": "60%",
+        "topic": "Fractions, Decimals, and Percentages"
+      },
+      {
+        "question": "Which is greater: 0.6 or 3/5?",
+        "options": ["0.6", "3/5", "They are equal"],
+        "answer": "They are equal",
+        "topic": "Fractions, Decimals, and Percentages"
+      },
+      {
+        "question": "What is 1.25 as a fraction?",
+        "options": ["5/4", "4/5", "6/5"],
+        "answer": "5/4",
+        "topic": "Fractions, Decimals, and Percentages"
+      },
+      {
+        "question": "What is 10% of 500?",
+        "options": ["5", "50", "100"],
+        "answer": "50",
+        "topic": "Fractions, Decimals, and Percentages"
+      }
+    ]
+  }
+}

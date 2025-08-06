@@ -1,0 +1,174 @@
+{
+  "advanced": {
+    "Algorithms and Complexity (Big O notation)": [
+      {
+        "question": "What is the time complexity of binary search in a sorted array?",
+        "options": ["O(n)", "O(log n)", "O(n log n)"],
+        "answer": "O(log n)",
+        "topic": "Algorithms and Complexity (Big O notation)"
+      },
+      {
+        "question": "Which Big O notation represents the best possible efficiency for sorting algorithms?",
+        "options": ["O(n^2)", "O(log n)", "O(n log n)"],
+        "answer": "O(n log n)",
+        "topic": "Algorithms and Complexity (Big O notation)"
+      },
+      {
+        "question": "What is the space complexity of a recursive factorial function?",
+        "options": ["O(n)", "O(1)", "O(log n)"],
+        "answer": "O(n)",
+        "topic": "Algorithms and Complexity (Big O notation)"
+      },
+      {
+        "question": "Which of these sorting algorithms has the worst-case time complexity of O(n^2)?",
+        "options": ["Merge Sort", "Quick Sort", "Bubble Sort"],
+        "answer": "Bubble Sort",
+        "topic": "Algorithms and Complexity (Big O notation)"
+      },
+      {
+        "question": "What does Big O notation primarily describe?",
+        "options": ["Memory usage", "Algorithm accuracy", "Growth rate of time or space complexity"],
+        "answer": "Growth rate of time or space complexity",
+        "topic": "Algorithms and Complexity (Big O notation)"
+      },
+      {
+        "question": "Which algorithm has a linear time complexity?",
+        "options": ["Binary search", "Linear search", "Merge sort"],
+        "answer": "Linear search",
+        "topic": "Algorithms and Complexity (Big O notation)"
+      },
+      {
+        "question": "What is the average case time complexity of quicksort?",
+        "options": ["O(n log n)", "O(n^2)", "O(n)"],
+        "answer": "O(n log n)",
+        "topic": "Algorithms and Complexity (Big O notation)"
+      },
+      {
+        "question": "Which data structure gives O(1) time complexity for insertion and deletion at the end?",
+        "options": ["Array", "Stack", "Linked List"],
+        "answer": "Stack",
+        "topic": "Algorithms and Complexity (Big O notation)"
+      },
+      {
+        "question": "What is the Big O complexity of traversing an entire linked list?",
+        "options": ["O(log n)", "O(n)", "O(1)"],
+        "answer": "O(n)",
+        "topic": "Algorithms and Complexity (Big O notation)"
+      }
+    ],
+
+    "Machine Learning & AI Fundamentals": [
+      {
+        "question": "What is 'overfitting' in machine learning?",
+        "options": ["The model performs well on new data", "The model performs poorly on training data", "The model performs well on training data but poorly on new data"],
+        "answer": "The model performs well on training data but poorly on new data",
+        "topic": "Machine Learning & AI Fundamentals"
+      },
+      {
+        "question": "Which of the following is a supervised learning algorithm?",
+        "options": ["K-Means", "Decision Tree", "PCA"],
+        "answer": "Decision Tree",
+        "topic": "Machine Learning & AI Fundamentals"
+      },
+      {
+        "question": "What does the 'bias' term in a neural network help with?",
+        "options": ["Data shuffling", "Activation function scaling", "Shifting the activation function"],
+        "answer": "Shifting the activation function",
+        "topic": "Machine Learning & AI Fundamentals"
+      },
+      {
+        "question": "Which function is commonly used to measure error in regression models?",
+        "options": ["Cross entropy", "Mean Squared Error", "Sigmoid"],
+        "answer": "Mean Squared Error",
+        "topic": "Machine Learning & AI Fundamentals"
+      },
+      {
+        "question": "What is the purpose of a learning rate in gradient descent?",
+        "options": ["To stop overfitting", "To determine the model size", "To control the step size of updates"],
+        "answer": "To control the step size of updates",
+        "topic": "Machine Learning & AI Fundamentals"
+      },
+      {
+        "question": "What kind of machine learning does a recommendation system typically use?",
+        "options": ["Unsupervised learning", "Supervised learning", "Reinforcement learning"],
+        "answer": "Unsupervised learning",
+        "topic": "Machine Learning & AI Fundamentals"
+      },
+      {
+        "question": "Which activation function outputs values between 0 and 1?",
+        "options": ["ReLU", "Tanh", "Sigmoid"],
+        "answer": "Sigmoid",
+        "topic": "Machine Learning & AI Fundamentals"
+      },
+      {
+        "question": "Which of these is a method to reduce overfitting?",
+        "options": ["Increasing model size", "Using all features", "Cross-validation"],
+        "answer": "Cross-validation",
+        "topic": "Machine Learning & AI Fundamentals"
+      },
+      {
+        "question": "Which algorithm is commonly used in classification problems?",
+        "options": ["Linear Regression", "K-Nearest Neighbors", "K-Means Clustering"],
+        "answer": "K-Nearest Neighbors",
+        "topic": "Machine Learning & AI Fundamentals"
+      }
+    ],
+
+    "Networking Protocols and Cloud Computing": [
+      {
+        "question": "What does TCP stand for in networking?",
+        "options": ["Transfer Control Protocol", "Transmission Control Protocol", "Trusted Connection Protocol"],
+        "answer": "Transmission Control Protocol",
+        "topic": "Networking Protocols and Cloud Computing"
+      },
+      {
+        "question": "Which protocol is used to assign IP addresses dynamically?",
+        "options": ["DNS", "TCP", "DHCP"],
+        "answer": "DHCP",
+        "topic": "Networking Protocols and Cloud Computing"
+      },
+      {
+        "question": "Which layer of the OSI model handles routing of packets?",
+        "options": ["Transport layer", "Data link layer", "Network layer"],
+        "answer": "Network layer",
+        "topic": "Networking Protocols and Cloud Computing"
+      },
+      {
+        "question": "What is the main function of DNS?",
+        "options": ["Transfer files", "Secure connections", "Translate domain names to IP addresses"],
+        "answer": "Translate domain names to IP addresses",
+        "topic": "Networking Protocols and Cloud Computing"
+      },
+      {
+        "question": "Which cloud computing model provides virtualized computing resources over the internet?",
+        "options": ["IaaS", "PaaS", "SaaS"],
+        "answer": "IaaS",
+        "topic": "Networking Protocols and Cloud Computing"
+      },
+      {
+        "question": "What does latency refer to in a network?",
+        "options": ["Amount of data sent", "Network speed", "Delay before data transfer begins"],
+        "answer": "Delay before data transfer begins",
+        "topic": "Networking Protocols and Cloud Computing"
+      },
+      {
+        "question": "Which of the following is an example of a SaaS product?",
+        "options": ["Amazon EC2", "Google Docs", "Microsoft Azure"],
+        "answer": "Google Docs",
+        "topic": "Networking Protocols and Cloud Computing"
+      },
+      {
+        "question": "What does the HTTP protocol do?",
+        "options": ["Encrypts emails", "Transfers web pages", "Creates virtual machines"],
+        "answer": "Transfers web pages",
+        "topic": "Networking Protocols and Cloud Computing"
+      },
+      {
+        "question": "Which of the following ensures encrypted communication over a network?",
+        "options": ["HTTP", "SSL/TLS", "FTP"],
+        "answer": "SSL/TLS",
+        "topic": "Networking Protocols and Cloud Computing"
+      }
+    ]
+  }
+}

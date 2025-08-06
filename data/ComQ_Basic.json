@@ -1,0 +1,174 @@
+{
+  "basic": {
+    "Introduction to Computers (hardware vs software)": [
+      {
+        "question": "Which of the following is an example of hardware?",
+        "options": ["Microsoft Word", "Printer", "Google Chrome"],
+        "answer": "Printer",
+        "topic": "Introduction to Computers (hardware vs software)"
+      },
+      {
+        "question": "Which of the following is software?",
+        "options": ["Mouse", "Hard drive", "Operating System"],
+        "answer": "Operating System",
+        "topic": "Introduction to Computers (hardware vs software)"
+      },
+      {
+        "question": "What is the function of the CPU in a computer?",
+        "options": ["To store data", "To process instructions", "To display images"],
+        "answer": "To process instructions",
+        "topic": "Introduction to Computers (hardware vs software)"
+      },
+      {
+        "question": "Which component is used to temporarily store data while a computer is running?",
+        "options": ["RAM", "Hard drive", "Monitor"],
+        "answer": "RAM",
+        "topic": "Introduction to Computers (hardware vs software)"
+      },
+      {
+        "question": "Which of these is NOT a peripheral device?",
+        "options": ["Keyboard", "Motherboard", "Printer"],
+        "answer": "Motherboard",
+        "topic": "Introduction to Computers (hardware vs software)"
+      },
+      {
+        "question": "Which one is an example of an input device?",
+        "options": ["Monitor", "Keyboard", "Speaker"],
+        "answer": "Keyboard",
+        "topic": "Introduction to Computers (hardware vs software)"
+      },
+      {
+        "question": "What is the purpose of software in a computer?",
+        "options": ["To power the device", "To execute tasks and functions", "To cool down the hardware"],
+        "answer": "To execute tasks and functions",
+        "topic": "Introduction to Computers (hardware vs software)"
+      },
+      {
+        "question": "Which device is used to permanently store data?",
+        "options": ["RAM", "Hard Drive", "Cache"],
+        "answer": "Hard Drive",
+        "topic": "Introduction to Computers (hardware vs software)"
+      },
+      {
+        "question": "What type of software is an internet browser?",
+        "options": ["Utility software", "Application software", "System software"],
+        "answer": "Application software",
+        "topic": "Introduction to Computers (hardware vs software)"
+      }
+    ],
+    
+    "Operating Systems (Windows, macOS, Linux basics)": [
+      {
+        "question": "Which of these is an example of an operating system?",
+        "options": ["Chrome", "Windows", "Photoshop"],
+        "answer": "Windows",
+        "topic": "Operating Systems (Windows, macOS, Linux basics)"
+      },
+      {
+        "question": "What does an operating system do?",
+        "options": ["Connects to the internet", "Manages hardware and software", "Designs webpages"],
+        "answer": "Manages hardware and software",
+        "topic": "Operating Systems (Windows, macOS, Linux basics)"
+      },
+      {
+        "question": "Which operating system is commonly used on Apple computers?",
+        "options": ["Windows", "Linux", "macOS"],
+        "answer": "macOS",
+        "topic": "Operating Systems (Windows, macOS, Linux basics)"
+      },
+      {
+        "question": "Which OS is open-source and commonly used by developers?",
+        "options": ["Linux", "Windows", "macOS"],
+        "answer": "Linux",
+        "topic": "Operating Systems (Windows, macOS, Linux basics)"
+      },
+      {
+        "question": "What is the primary interface for users to interact with an operating system?",
+        "options": ["Web browser", "Command line", "Graphical User Interface (GUI)"],
+        "answer": "Graphical User Interface (GUI)",
+        "topic": "Operating Systems (Windows, macOS, Linux basics)"
+      },
+      {
+        "question": "Which key combination opens Task Manager in Windows?",
+        "options": ["Ctrl + Shift + Esc", "Alt + Tab", "Ctrl + Alt + Del"],
+        "answer": "Ctrl + Shift + Esc",
+        "topic": "Operating Systems (Windows, macOS, Linux basics)"
+      },
+      {
+        "question": "Which file system is commonly used in Windows?",
+        "options": ["FAT32", "NTFS", "EXT4"],
+        "answer": "NTFS",
+        "topic": "Operating Systems (Windows, macOS, Linux basics)"
+      },
+      {
+        "question": "What does 'booting' refer to in computing?",
+        "options": ["Shutting down the system", "Starting the operating system", "Installing software"],
+        "answer": "Starting the operating system",
+        "topic": "Operating Systems (Windows, macOS, Linux basics)"
+      },
+      {
+        "question": "What is the Dock in macOS used for?",
+        "options": ["To store files", "To access system settings", "To quickly open applications"],
+        "answer": "To quickly open applications",
+        "topic": "Operating Systems (Windows, macOS, Linux basics)"
+      }
+    ],
+    
+    "Internet and Email Basics": [
+      {
+        "question": "What does 'www' stand for in a website address?",
+        "options": ["World Wide Web", "Web World Wide", "Wide Web World"],
+        "answer": "World Wide Web",
+        "topic": "Internet and Email Basics"
+      },
+      {
+        "question": "Which device is essential to connect a home computer to the internet?",
+        "options": ["Printer", "Router", "Scanner"],
+        "answer": "Router",
+        "topic": "Internet and Email Basics"
+      },
+      {
+        "question": "What is a web browser used for?",
+        "options": ["Editing documents", "Accessing websites", "Sending emails"],
+        "answer": "Accessing websites",
+        "topic": "Internet and Email Basics"
+      },
+      {
+        "question": "Which of the following is a valid email domain?",
+        "options": ["@email.doc", "@example.com", "@mail@server"],
+        "answer": "@example.com",
+        "topic": "Internet and Email Basics"
+      },
+      {
+        "question": "What does 'CC' stand for in email?",
+        "options": ["Carbon Copy", "Control Center", "Client Copy"],
+        "answer": "Carbon Copy",
+        "topic": "Internet and Email Basics"
+      },
+      {
+        "question": "Which part of an email address comes after the @ symbol?",
+        "options": ["User name", "Domain name", "File name"],
+        "answer": "Domain name",
+        "topic": "Internet and Email Basics"
+      },
+      {
+        "question": "What should you do before clicking a link in a suspicious email?",
+        "options": ["Click immediately", "Ignore completely", "Check the sender and hover over the link"],
+        "answer": "Check the sender and hover over the link",
+        "topic": "Internet and Email Basics"
+      },
+      {
+        "question": "What is the function of the 'Inbox' in an email account?",
+        "options": ["To send new emails", "To receive and store incoming emails", "To delete emails"],
+        "answer": "To receive and store incoming emails",
+        "topic": "Internet and Email Basics"
+      },
+      {
+        "question": "Which of these is a secure way to access a website?",
+        "options": ["http://", "www.", "https://"],
+        "answer": "https://",
+        "topic": "Internet and Email Basics"
+      }
+    ]
+  }
+}

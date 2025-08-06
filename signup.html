@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Signup - Kids Learning</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <link rel="stylesheet" href="./css/signup.css" />
+</head>
+<body>
+  <div class="card" aria-label="Signup form">
+    <h1>Sign Up</h1>
+    <p class="subtitle">Create a new account to start learning.</p>
+    <div id="signup-error" class="error" style="display:none;"></div>
+    <div id="signup-success" class="success" style="display:none;"></div>
+
+    <form id="signup-form" novalidate>
+      <div class="field">
+        <label for="signup-name">Full Name</label>
+        <input type="text" id="signup-name" required placeholder="John Doe" />
+      </div>
+      <div class="field">
+        <label for="signup-email">Email</label>
+        <input type="email" id="signup-email" required placeholder="you@example.com" />
+      </div>
+      <div class="field">
+        <label for="signup-password">Password</label>
+        <input type="password" id="signup-password" required placeholder="At least 6 characters" />
+      </div>
+      <button type="submit" class="btn">Sign Up</button>
+      <div class="small">Already have an account? <a href="login.html">Login</a></div>
+    </form>
+  </div>
+
+  <script src="./js/signup.js"></script>
+</body>
+</html>

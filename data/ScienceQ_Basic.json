@@ -1,0 +1,174 @@
+{
+  "basic": {
+    "Living and Non-living Things": [
+      {
+        "question": "Which of these is a living thing?",
+        "options": ["Tree", "Rock", "Car"],
+        "answer": "Tree",
+        "topic": "Living and Non-living Things"
+      },
+      {
+        "question": "What is one characteristic of living things?",
+        "options": ["They move", "They shine", "They are heavy"],
+        "answer": "They move",
+        "topic": "Living and Non-living Things"
+      },
+      {
+        "question": "Which of the following is a non-living thing?",
+        "options": ["Dog", "Mountain", "Bird"],
+        "answer": "Mountain",
+        "topic": "Living and Non-living Things"
+      },
+      {
+        "question": "Living things need ____ to survive.",
+        "options": ["Water", "Plastic", "Metal"],
+        "answer": "Water",
+        "topic": "Living and Non-living Things"
+      },
+      {
+        "question": "Which of these grows over time?",
+        "options": ["Pencil", "Plant", "Chair"],
+        "answer": "Plant",
+        "topic": "Living and Non-living Things"
+      },
+      {
+        "question": "Which of the following cannot reproduce?",
+        "options": ["Cat", "Bicycle", "Fish"],
+        "answer": "Bicycle",
+        "topic": "Living and Non-living Things"
+      },
+      {
+        "question": "Living things respond to their ____.",
+        "options": ["Environment", "Color", "Size"],
+        "answer": "Environment",
+        "topic": "Living and Non-living Things"
+      },
+      {
+        "question": "Which of these is NOT a characteristic of living things?",
+        "options": ["Breathing", "Thinking", "Being made of plastic"],
+        "answer": "Being made of plastic",
+        "topic": "Living and Non-living Things"
+      },
+      {
+        "question": "Which of the following is both living and non-living at different stages?",
+        "options": ["Seed", "Water", "Stone"],
+        "answer": "Seed",
+        "topic": "Living and Non-living Things"
+      }
+    ],
+
+    "States of Matter": [
+      {
+        "question": "Which of the following is a solid?",
+        "options": ["Ice", "Water", "Steam"],
+        "answer": "Ice",
+        "topic": "States of Matter"
+      },
+      {
+        "question": "Water in its liquid form is called:",
+        "options": ["Ice", "Steam", "Water"],
+        "answer": "Water",
+        "topic": "States of Matter"
+      },
+      {
+        "question": "What state of matter is air?",
+        "options": ["Solid", "Liquid", "Gas"],
+        "answer": "Gas",
+        "topic": "States of Matter"
+      },
+      {
+        "question": "What happens to water when it freezes?",
+        "options": ["It turns into gas", "It turns into a solid", "It disappears"],
+        "answer": "It turns into a solid",
+        "topic": "States of Matter"
+      },
+      {
+        "question": "Which state of matter has a definite shape and volume?",
+        "options": ["Solid", "Liquid", "Gas"],
+        "answer": "Solid",
+        "topic": "States of Matter"
+      },
+      {
+        "question": "Which of the following can flow and take the shape of its container?",
+        "options": ["Solid", "Liquid", "Gas"],
+        "answer": "Liquid",
+        "topic": "States of Matter"
+      },
+      {
+        "question": "What process turns a liquid into a gas?",
+        "options": ["Freezing", "Boiling", "Melting"],
+        "answer": "Boiling",
+        "topic": "States of Matter"
+      },
+      {
+        "question": "Steam is an example of which state of matter?",
+        "options": ["Solid", "Liquid", "Gas"],
+        "answer": "Gas",
+        "topic": "States of Matter"
+      },
+      {
+        "question": "What process turns a solid directly into a gas?",
+        "options": ["Condensation", "Sublimation", "Melting"],
+        "answer": "Sublimation",
+        "topic": "States of Matter"
+      }
+    ],
+
+    "The Solar System": [
+      {
+        "question": "Which planet is closest to the Sun?",
+        "options": ["Mercury", "Earth", "Mars"],
+        "answer": "Mercury",
+        "topic": "The Solar System"
+      },
+      {
+        "question": "Which planet do we live on?",
+        "options": ["Venus", "Earth", "Jupiter"],
+        "answer": "Earth",
+        "topic": "The Solar System"
+      },
+      {
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["Mars", "Saturn", "Uranus"],
+        "answer": "Mars",
+        "topic": "The Solar System"
+      },
+      {
+        "question": "The Sun is a:",
+        "options": ["Planet", "Star", "Moon"],
+        "answer": "Star",
+        "topic": "The Solar System"
+      },
+      {
+        "question": "Which planet has rings around it?",
+        "options": ["Earth", "Saturn", "Mars"],
+        "answer": "Saturn",
+        "topic": "The Solar System"
+      },
+      {
+        "question": "What is the name of Earth's natural satellite?",
+        "options": ["The Moon", "The Sun", "Venus"],
+        "answer": "The Moon",
+        "topic": "The Solar System"
+      },
+      {
+        "question": "How many planets are in our Solar System?",
+        "options": ["7", "8", "9"],
+        "answer": "8",
+        "topic": "The Solar System"
+      },
+      {
+        "question": "Which is the largest planet in the Solar System?",
+        "options": ["Earth", "Jupiter", "Neptune"],
+        "answer": "Jupiter",
+        "topic": "The Solar System"
+      },
+      {
+        "question": "What force keeps the planets in orbit around the Sun?",
+        "options": ["Magnetism", "Friction", "Gravity"],
+        "answer": "Gravity",
+        "topic": "The Solar System"
+      }
+    ]
+  }
+}

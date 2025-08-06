@@ -1,0 +1,174 @@
+{
+  "intermediate": {
+    "Algebra (linear equations, expressions)": [
+      {
+        "question": "Solve for x: 2x + 3 = 11",
+        "options": ["4", "5", "6"],
+        "answer": "4",
+        "topic": "Algebra (linear equations, expressions)"
+      },
+      {
+        "question": "What is the value of the expression 3x - 5 when x = 2?",
+        "options": ["1", "3", "11"],
+        "answer": "1",
+        "topic": "Algebra (linear equations, expressions)"
+      },
+      {
+        "question": "Simplify: 2(x + 4) - x",
+        "options": ["x + 8", "2x + 4", "x + 4"],
+        "answer": "x + 8",
+        "topic": "Algebra (linear equations, expressions)"
+      },
+      {
+        "question": "Which of the following is a linear equation?",
+        "options": ["x^2 + 3 = 7", "2x + 5 = 9", "x^3 = 8"],
+        "answer": "2x + 5 = 9",
+        "topic": "Algebra (linear equations, expressions)"
+      },
+      {
+        "question": "If 5x = 20, what is the value of x?",
+        "options": ["4", "5", "6"],
+        "answer": "4",
+        "topic": "Algebra (linear equations, expressions)"
+      },
+      {
+        "question": "Factor the expression: x^2 + 5x + 6",
+        "options": ["(x + 2)(x + 3)", "(x + 1)(x + 6)", "(x + 3)(x + 2)"],
+        "answer": "(x + 2)(x + 3)",
+        "topic": "Algebra (linear equations, expressions)"
+      },
+      {
+        "question": "What is the solution to the equation 3x - 2 = x + 4?",
+        "options": ["1", "2", "3"],
+        "answer": "3",
+        "topic": "Algebra (linear equations, expressions)"
+      },
+      {
+        "question": "Simplify: 4x - 2x + 7",
+        "options": ["2x + 7", "6x + 7", "4x + 7"],
+        "answer": "2x + 7",
+        "topic": "Algebra (linear equations, expressions)"
+      },
+      {
+        "question": "Which of the following expressions is equivalent to 2(x - 3) + 4?",
+        "options": ["2x - 6 + 4", "2x - 2", "x - 2"],
+        "answer": "2x - 6 + 4",
+        "topic": "Algebra (linear equations, expressions)"
+      }
+    ],
+
+    "Probability and Statistics (mean, median, mode)": [
+      {
+        "question": "What is the mean of the numbers: 2, 4, 6, 8?",
+        "options": ["4", "5", "6"],
+        "answer": "5",
+        "topic": "Probability and Statistics (mean, median, mode)"
+      },
+      {
+        "question": "Find the mode of this set: 1, 2, 2, 3, 4",
+        "options": ["2", "3", "4"],
+        "answer": "2",
+        "topic": "Probability and Statistics (mean, median, mode)"
+      },
+      {
+        "question": "What is the median of this set: 5, 7, 9, 11, 13?",
+        "options": ["9", "7", "11"],
+        "answer": "9",
+        "topic": "Probability and Statistics (mean, median, mode)"
+      },
+      {
+        "question": "If a die is rolled once, what is the probability of getting an even number?",
+        "options": ["1/6", "1/2", "1/3"],
+        "answer": "1/2",
+        "topic": "Probability and Statistics (mean, median, mode)"
+      },
+      {
+        "question": "Which measure of central tendency is affected most by extreme values?",
+        "options": ["Mean", "Median", "Mode"],
+        "answer": "Mean",
+        "topic": "Probability and Statistics (mean, median, mode)"
+      },
+      {
+        "question": "A bag contains 3 red balls and 2 blue balls. What is the probability of picking a blue ball?",
+        "options": ["2/3", "3/5", "2/5"],
+        "answer": "2/5",
+        "topic": "Probability and Statistics (mean, median, mode)"
+      },
+      {
+        "question": "Find the range of the set: 4, 8, 15, 16, 23",
+        "options": ["19", "15", "20"],
+        "answer": "19",
+        "topic": "Probability and Statistics (mean, median, mode)"
+      },
+      {
+        "question": "What is the probability of flipping a coin and getting heads?",
+        "options": ["1/2", "1/4", "2/3"],
+        "answer": "1/2",
+        "topic": "Probability and Statistics (mean, median, mode)"
+      },
+      {
+        "question": "What is the mode of this set: 6, 8, 8, 9, 10, 10, 10?",
+        "options": ["8", "9", "10"],
+        "answer": "10",
+        "topic": "Probability and Statistics (mean, median, mode)"
+      }
+    ],
+
+    "Coordinate Geometry": [
+      {
+        "question": "What are the coordinates of the origin on a Cartesian plane?",
+        "options": ["(1, 1)", "(0, 1)", "(0, 0)"],
+        "answer": "(0, 0)",
+        "topic": "Coordinate Geometry"
+      },
+      {
+        "question": "Which quadrant is the point (4, -3) located in?",
+        "options": ["I", "II", "IV"],
+        "answer": "IV",
+        "topic": "Coordinate Geometry"
+      },
+      {
+        "question": "What is the distance between the points (0,0) and (3,4)?",
+        "options": ["5", "6", "7"],
+        "answer": "5",
+        "topic": "Coordinate Geometry"
+      },
+      {
+        "question": "Which formula is used to find the slope of a line given two points?",
+        "options": ["(x2 - x1)/(y2 - y1)", "(y2 - y1)/(x2 - x1)", "(x1 + y1)/(x2 + y2)"],
+        "answer": "(y2 - y1)/(x2 - x1)",
+        "topic": "Coordinate Geometry"
+      },
+      {
+        "question": "What is the slope of a horizontal line?",
+        "options": ["0", "1", "Undefined"],
+        "answer": "0",
+        "topic": "Coordinate Geometry"
+      },
+      {
+        "question": "What is the slope of the line passing through (1,2) and (3,6)?",
+        "options": ["2", "3", "4"],
+        "answer": "2",
+        "topic": "Coordinate Geometry"
+      },
+      {
+        "question": "Find the midpoint of the segment joining (2, 4) and (4, 8)",
+        "options": ["(3, 6)", "(6, 3)", "(2, 6)"],
+        "answer": "(3, 6)",
+        "topic": "Coordinate Geometry"
+      },
+      {
+        "question": "What is the x-intercept of the line y = 2x + 4?",
+        "options": ["(0, 4)", "(-2, 0)", "(2, 0)"],
+        "answer": "(-2, 0)",
+        "topic": "Coordinate Geometry"
+      },
+      {
+        "question": "What shape is formed when all four sides of a quadrilateral have equal length and all angles are 90°?",
+        "options": ["Rectangle", "Rhombus", "Square"],
+        "answer": "Square",
+        "topic": "Coordinate Geometry"
+      }
+    ]
+  }
+}

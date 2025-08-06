@@ -1,0 +1,174 @@
+{
+  "intermediate": {
+    "Computer Programming Fundamentals": [
+      {
+        "question": "Which keyword is used to define a function in Python?",
+        "options": ["function", "define", "def"],
+        "answer": "def",
+        "topic": "Computer Programming Fundamentals"
+      },
+      {
+        "question": "What is the output of this code? `print(2 * 3 + 1)`",
+        "options": ["7", "8", "9"],
+        "answer": "7",
+        "topic": "Computer Programming Fundamentals"
+      },
+      {
+        "question": "Which data type would you use to store a sequence of characters?",
+        "options": ["int", "string", "boolean"],
+        "answer": "string",
+        "topic": "Computer Programming Fundamentals"
+      },
+      {
+        "question": "Which of the following is a loop structure in most programming languages?",
+        "options": ["repeat", "do-until", "for"],
+        "answer": "for",
+        "topic": "Computer Programming Fundamentals"
+      },
+      {
+        "question": "In most languages, what does the `if` statement do?",
+        "options": ["Repeats code", "Evaluates a condition", "Declares a variable"],
+        "answer": "Evaluates a condition",
+        "topic": "Computer Programming Fundamentals"
+      },
+      {
+        "question": "What is the purpose of a variable in programming?",
+        "options": ["To perform calculations", "To store data", "To display text"],
+        "answer": "To store data",
+        "topic": "Computer Programming Fundamentals"
+      },
+      {
+        "question": "What symbol is used for single-line comments in Python?",
+        "options": ["//", "#", "--"],
+        "answer": "#",
+        "topic": "Computer Programming Fundamentals"
+      },
+      {
+        "question": "Which of the following is a boolean value?",
+        "options": ["1.0", "yes", "True"],
+        "answer": "True",
+        "topic": "Computer Programming Fundamentals"
+      },
+      {
+        "question": "What kind of error occurs when a program tries to divide by zero?",
+        "options": ["Syntax error", "Runtime error", "Logic error"],
+        "answer": "Runtime error",
+        "topic": "Computer Programming Fundamentals"
+      }
+    ],
+
+    "Databases and Data Structures": [
+      {
+        "question": "Which of the following is a relational database management system (RDBMS)?",
+        "options": ["MySQL", "Excel", "JSON"],
+        "answer": "MySQL",
+        "topic": "Databases and Data Structures"
+      },
+      {
+        "question": "What is a 'primary key' in a database table?",
+        "options": ["A column that stores images", "A unique identifier for each record", "A password to access the table"],
+        "answer": "A unique identifier for each record",
+        "topic": "Databases and Data Structures"
+      },
+      {
+        "question": "Which data structure uses LIFO (Last In, First Out) ordering?",
+        "options": ["Queue", "Array", "Stack"],
+        "answer": "Stack",
+        "topic": "Databases and Data Structures"
+      },
+      {
+        "question": "What does SQL stand for?",
+        "options": ["Structured Query Language", "Simple Query Logic", "System Query Level"],
+        "answer": "Structured Query Language",
+        "topic": "Databases and Data Structures"
+      },
+      {
+        "question": "Which of the following SQL commands is used to retrieve data?",
+        "options": ["INSERT", "SELECT", "UPDATE"],
+        "answer": "SELECT",
+        "topic": "Databases and Data Structures"
+      },
+      {
+        "question": "Which data structure allows data to be stored in key-value pairs?",
+        "options": ["Array", "Dictionary", "Stack"],
+        "answer": "Dictionary",
+        "topic": "Databases and Data Structures"
+      },
+      {
+        "question": "Which data structure is best suited for implementing a queue?",
+        "options": ["Stack", "Linked list", "Heap"],
+        "answer": "Linked list",
+        "topic": "Databases and Data Structures"
+      },
+      {
+        "question": "What is normalization in databases?",
+        "options": ["Backing up data", "Structuring data to reduce redundancy", "Converting data into graphics"],
+        "answer": "Structuring data to reduce redundancy",
+        "topic": "Databases and Data Structures"
+      },
+      {
+        "question": "Which clause in SQL is used to sort the result-set?",
+        "options": ["ORDER BY", "SORT", "ARRANGE"],
+        "answer": "ORDER BY",
+        "topic": "Databases and Data Structures"
+      }
+    ],
+
+    "Cybersecurity Essentials": [
+      {
+        "question": "Which of these is a strong password example?",
+        "options": ["123456", "password", "G3k@9#Zm!"],
+        "answer": "G3k@9#Zm!",
+        "topic": "Cybersecurity Essentials"
+      },
+      {
+        "question": "What is phishing?",
+        "options": ["Installing antivirus", "A cyberattack using fake emails or websites", "Monitoring network activity"],
+        "answer": "A cyberattack using fake emails or websites",
+        "topic": "Cybersecurity Essentials"
+      },
+      {
+        "question": "What does a firewall do?",
+        "options": ["Stores website passwords", "Blocks unauthorized access", "Increases internet speed"],
+        "answer": "Blocks unauthorized access",
+        "topic": "Cybersecurity Essentials"
+      },
+      {
+        "question": "Which term refers to malicious software designed to damage or disrupt systems?",
+        "options": ["Firewall", "Spyware", "Malware"],
+        "answer": "Malware",
+        "topic": "Cybersecurity Essentials"
+      },
+      {
+        "question": "What is two-factor authentication (2FA)?",
+        "options": ["A backup system", "A second account login", "A security method using two forms of verification"],
+        "answer": "A security method using two forms of verification",
+        "topic": "Cybersecurity Essentials"
+      },
+      {
+        "question": "Which of the following is an example of social engineering?",
+        "options": ["Installing antivirus", "Tricking someone into revealing their password", "Brute-force attack"],
+        "answer": "Tricking someone into revealing their password",
+        "topic": "Cybersecurity Essentials"
+      },
+      {
+        "question": "Which protocol is used for secure web browsing?",
+        "options": ["HTTP", "FTP", "HTTPS"],
+        "answer": "HTTPS",
+        "topic": "Cybersecurity Essentials"
+      },
+      {
+        "question": "What does the term 'encryption' mean?",
+        "options": ["Turning data into unreadable code", "Deleting unnecessary files", "Creating backups of data"],
+        "answer": "Turning data into unreadable code",
+        "topic": "Cybersecurity Essentials"
+      },
+      {
+        "question": "What should you do if you receive a suspicious link in an email?",
+        "options": ["Click to check it", "Forward it to friends", "Avoid clicking and report it"],
+        "answer": "Avoid clicking and report it",
+        "topic": "Cybersecurity Essentials"
+      }
+    ]
+  }
+}

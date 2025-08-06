@@ -1,0 +1,172 @@
+{
+  "advanced": {
+    "Inference & Reading Comprehension": [
+      {
+        "question": "Inference: 'He clutched his chest and collapsed.' What can be inferred?",
+        "options": ["He is dancing.", "He might be having a heart attack.", "He fell asleep."],
+        "answer": "He might be having a heart attack.",
+        "topic": "Inference & Reading Comprehension"
+      },
+      {
+        "question": "What is implied by: 'She glanced at the clock for the tenth time'?",
+        "options": ["She is bored or anxious.", "She loves clocks.", "She is learning time."],
+        "answer": "She is bored or anxious.",
+        "topic": "Inference & Reading Comprehension"
+      },
+      {
+        "question": "What can be inferred from: 'The streets were wet, but no rain had fallen'?",
+        "options": ["Someone cleaned the street.", "The water came from nowhere.", "There was a leak or cleaning activity."],
+        "answer": "There was a leak or cleaning activity.",
+        "topic": "Inference & Reading Comprehension"
+      },
+      {
+        "question": "Inference: 'She hid the letter under her pillow.'",
+        "options": ["She plans to mail it.", "She wants to keep it private.", "She forgot about it."],
+        "answer": "She wants to keep it private.",
+        "topic": "Inference & Reading Comprehension"
+      },
+      {
+        "question": "What is implied: 'He closed the book with a sigh and stared at the ceiling'?",
+        "options": ["He's relieved.", "He found it boring or emotional.", "He fell asleep."],
+        "answer": "He found it boring or emotional.",
+        "topic": "Inference & Reading Comprehension"
+      },
+      {
+        "question": "What can be inferred from: 'There was no sign of forced entry, but the jewels were missing'?",
+        "options": ["The thief had a key or was let in.", "There was no theft.", "It was a prank."],
+        "answer": "The thief had a key or was let in.",
+        "topic": "Inference & Reading Comprehension"
+      },
+      {
+        "question": "Inference: 'The baby cried louder when she saw the doctor.'",
+        "options": ["The baby dislikes doctors.", "She is happy.", "The doctor is funny."],
+        "answer": "The baby dislikes doctors.",
+        "topic": "Inference & Reading Comprehension"
+      },
+      {
+        "question": "What is implied: 'His room looked like a tornado had hit it'?",
+        "options": ["He is neat.", "He has been cleaning.", "His room is very messy."],
+        "answer": "His room is very messy.",
+        "topic": "Inference & Reading Comprehension"
+      },
+      {
+        "question": "What can be inferred: 'He wore sunglasses indoors and avoided eye contact'?",
+        "options": ["He’s sleepy.", "He might be hiding something.", "He’s fashionable."],
+        "answer": "He might be hiding something.",
+        "topic": "Inference & Reading Comprehension"
+      }
+    ],
+    "Clauses & Conditionals": [
+      {
+        "question": "Which is a third conditional sentence?",
+        "options": ["If it rains, we will stay home.", "If I had studied, I would have passed.", "If she sees this, she’ll cry."],
+        "answer": "If I had studied, I would have passed.",
+        "topic": "Clauses & Conditionals"
+      },
+      {
+        "question": "Identify the dependent clause: 'Although he tried, he failed.'",
+        "options": ["Although he tried", "he failed", "tried he"],
+        "answer": "Although he tried",
+        "topic": "Clauses & Conditionals"
+      },
+      {
+        "question": "Which sentence uses a mixed conditional correctly?",
+        "options": ["If I knew the answer, I would have told you.", "If I had wings, I flew.", "If she eats now, she would be full."],
+        "answer": "If I knew the answer, I would have told you.",
+        "topic": "Clauses & Conditionals"
+      },
+      {
+        "question": "Which sentence is first conditional?",
+        "options": ["If I study, I will pass.", "If I studied, I would pass.", "If I had studied, I would have passed."],
+        "answer": "If I study, I will pass.",
+        "topic": "Clauses & Conditionals"
+      },
+      {
+        "question": "Find the noun clause in: 'I believe that she is honest.'",
+        "options": ["that she is honest", "she is honest", "I believe"],
+        "answer": "that she is honest",
+        "topic": "Clauses & Conditionals"
+      },
+      {
+        "question": "What type of clause is: 'because I was tired'?",
+        "options": ["Noun clause", "Adjective clause", "Adverbial clause"],
+        "answer": "Adverbial clause",
+        "topic": "Clauses & Conditionals"
+      },
+      {
+        "question": "Identify the adjective clause: 'The book that I borrowed was amazing.'",
+        "options": ["The book", "that I borrowed", "was amazing"],
+        "answer": "that I borrowed",
+        "topic": "Clauses & Conditionals"
+      },
+      {
+        "question": "Which sentence shows a zero conditional?",
+        "options": ["If you heat water, it boils.", "If I were you, I’d rest.", "If I had gone, I'd have seen him."],
+        "answer": "If you heat water, it boils.",
+        "topic": "Clauses & Conditionals"
+      },
+      {
+        "question": "Choose the correct sentence using second conditional.",
+        "options": ["If I had money, I would travel.", "If I have money, I travel.", "If I will have money, I will travel."],
+        "answer": "If I had money, I would travel.",
+        "topic": "Clauses & Conditionals"
+      }
+    ],
+    "Advanced Error Correction": [
+      {
+        "question": "Identify the error: 'Each of the boys have a bike.'",
+        "options": ["Subject-verb agreement", "Tense error", "Preposition misuse"],
+        "answer": "Subject-verb agreement",
+        "topic": "Advanced Error Correction"
+      },
+      {
+        "question": "Correct the sentence: 'He enjoys to swim every weekend.'",
+        "options": ["He enjoy swimming every weekend.", "He enjoys swimming every weekend.", "He enjoys to swimming every weekend."],
+        "answer": "He enjoys swimming every weekend.",
+        "topic": "Advanced Error Correction"
+      },
+      {
+        "question": "Choose the grammatically correct sentence.",
+        "options": ["Neither the teacher nor the students was late.", "Neither the teacher nor the students were late.", "Neither the teacher or the students was late."],
+        "answer": "Neither the teacher nor the students were late.",
+        "topic": "Advanced Error Correction"
+      },
+      {
+        "question": "Find the error: 'He said me to wait here.'",
+        "options": ["Tense", "Pronoun misuse", "Reported speech error"],
+        "answer": "Reported speech error",
+        "topic": "Advanced Error Correction"
+      },
+      {
+        "question": "Correct the sentence: 'The informations are useful.'",
+        "options": ["The information is useful.", "The informations is useful.", "Information are useful."],
+        "answer": "The information is useful.",
+        "topic": "Advanced Error Correction"
+      },
+      {
+        "question": "Find the mistake: 'She didn’t went there yesterday.'",
+        "options": ["Tense error", "Preposition misuse", "Article error"],
+        "answer": "Tense error",
+        "topic": "Advanced Error Correction"
+      },
+      {
+        "question": "Choose the correct form: 'Neither of them ___ invited.'",
+        "options": ["was", "were", "are"],
+        "answer": "was",
+        "topic": "Advanced Error Correction"
+      },
+      {
+        "question": "Identify the error: 'He is more taller than me.'",
+        "options": ["Comparative error", "Subject-verb agreement", "Spelling"],
+        "answer": "Comparative error",
+        "topic": "Advanced Error Correction"
+      },
+      {
+        "question": "Which is the correct version?",
+        "options": ["She said that she will come.", "She said that she would come.", "She said that she come."],
+        "answer": "She said that she would come.",
+        "topic": "Advanced Error Correction"
+      }
+    ]
+  }
+}

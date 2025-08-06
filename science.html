@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Learning App - Science</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="./css/science.css" />
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Science</h1>
+      <div class="subhead">Explore resources, watch videos, and take quizzes (Basic / Intermediate / Advanced)</div>
+    </header>
+
+    <!-- Navigation Tabs -->
+    <div class="tabs" role="tablist">
+      <div class="tab active" data-target="resources" role="tab">Resources</div>
+      <div class="tab" data-target="videos" role="tab">Videos</div>
+      <div class="tab" data-target="quiz" role="tab">Quiz</div>
+    </div>
+
+    <!-- Resources Panel -->
+    <div id="resources" class="panel">
+      <div class="card">
+        <h2>Text & Reading Resources</h2>
+        <p class="small">Core material across Physics, Chemistry, and Biology.</p>
+        <ul class="resource-list">
+          <div class="basic">
+            <li class="resource-item">
+              <div>
+                <span class="tag">Basic</span>
+                <strong>Living and Non-living Things</strong>
+              </div>
+              <div>
+                <a href="https://byjus.com/worksheets/living-and-non-living-things-worksheet/" class="btn">Open</a>
+              </div>
+            </li>
+            <li class="resource-item">
+            <div>
+              <span class="tag">Basic</span>
+              <strong>States of Matter</strong>
+            </div>
+            <div>
+              <a href="https://www.ck12.org/chemistry/states-of-matter/lesson/Solid-Liquid-and-Gas-CHEM/?referrer=concept_details" class="btn">Open</a>
+            </div>
+          </li>
+          <li class="resource-item">
+            <div>
+              <span class="tag">Basic</span>
+              <strong>The Solar System</strong>
+            </div>
+            <div>
+              <a href="https://www.extramarks.com/studymaterials/cbse/cbse-class-8-science-revision-notes-chapter-17/" class="btn">Open</a>
+            </div>
+          </li>
+          </div>
+          <div class="intermediate">
+            <li class="resource-item">
+              <div>
+                <span class="tag">Intermediate</span>
+                <strong>Human Body Systems (nervous, digestive, etc.)</strong>
+              </div>
+              <div>
+                <a href="https://www.kenhub.com/en/library/anatomy/human-body-systems" class="btn">Open</a>
+              </div>
+            </li>
+            <li class="resource-item">
+              <div>
+                <span class="tag">Intermediate</span>
+                <strong>Forces and Motion</strong>
+              </div>
+              <div>
+                <a href="https://ncert.nic.in/textbook/pdf/keph104.pdf" class="btn">Open</a>
+              </div>
+            </li>
+            <li class="resource-item">
+              <div>
+                <span class="tag">Intermediate</span>
+                <strong>Chemical Reactions and Equations</strong>
+              </div>
+              <div>
+                <a href="https://www.learncbse.in/chemical-reactions-and-equations-class-10-notes/" class="btn">Open</a>
+              </div>
+            </li>
+          </div>
+          <div class="advance">
+            <li class="resource-item">
+              <div>
+                <span class="tag">Advanced</span>
+                <strong>Genetics and DNA</strong>
+              </div>
+              <div>
+                <a href="https://www.verywellhealth.com/what-are-genes-dna-and-chromosomes-2860732" class="btn">Open</a>
+              </div>
+            </li>
+            <li class="resource-item">
+              <div>
+                <span class="tag">Advanced</span>
+                <strong>Thermodynamics and Laws of Motion</strong>
+              </div>
+              <div>
+                <a href="https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion" class="btn">Open</a>
+              </div>
+            </li>
+            <li class="resource-item">
+              <div>
+                <span class="tag">Advanced</span>
+                <strong>Atomic Structure and Quantum Mechanics</strong>
+              </div>
+              <div>
+                <a href="https://www.geeksforgeeks.org/physics/atomic-structure/" class="btn">Open</a>
+              </div>
+            </li>
+          </div>
+        </ul>
+      </div>
+
+      <div class="card">
+        <h2>External Links</h2>
+        <p class="small">Supplementary content from trusted platforms.</p>
+        <ul class="resource-list">
+          <li class="resource-item">
+            <div>
+              <strong>Khan Academy - Science</strong>
+            </div>
+            <div>
+              <a href="https://www.khanacademy.org/science" target="_blank" class="btn">Visit</a>
+            </div>
+          </li>
+          <li class="resource-item">
+            <div>
+              <strong>Crash Course Science</strong>
+            </div>
+            <div>
+              <a href="https://thecrashcourse.com/topic/physics/" target="_blank" class="btn">Visit</a>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- Videos Panel -->
+    <div id="videos" class="panel hidden">
+      <div class="card">
+        <h2>Featured Video</h2>
+        <p class="small">Start with this conceptual overview.</p>
+        <div class="video-wrapper">
+          <iframe src="https://www.youtube.com/embed/CfxfW64P04s" title="Newton's Laws" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <div>
+          <strong>Topic:</strong> Newton’s Laws of Motion
+        </div>
+      </div>
+
+      <div class="card">
+        <h2>More Videos</h2>
+        <div class="flex">
+        <!-- BASIC -->
+        <div class="card" style="flex:1; min-width:220px;">
+          <h3>Basic: Living and Non-living Things</h3>
+          <div class="video-wrapper">
+            <iframe src="https://www.youtube.com/embed/Yl_ikxKwTDc" title="Living and Non-living Things" allowfullscreen></iframe>
+          </div>
+        </div>
+        <div class="card" style="flex:1; min-width:220px;">
+          <h3>Basic: States of Matter</h3>
+          <div class="video-wrapper">
+            <iframe src="https://www.youtube.com/embed/efaaNH-LbTQ" title="States of Matter" allowfullscreen></iframe>
+          </div>
+        </div>
+        <div class="card" style="flex:1; min-width:220px;">
+          <h3>Basic: The Solar System</h3>
+          <div class="video-wrapper">
+            <iframe src="https://www.youtube.com/embed/PEVQNy8v__A" title="The Solar System" allowfullscreen></iframe>
+          </div>
+        </div>
+
+        <!-- INTERMEDIATE -->
+        <div class="card" style="flex:1; min-width:220px;">
+          <h3>Intermediate: Human Body Systems (nervous, digestive, etc.)</h3>
+          <div class="video-wrapper">
+            <iframe src="https://www.youtube.com/embed/1UvuBYUbFk0" title="Human Body Systems (nervous, digestive, etc.)" allowfullscreen></iframe>
+          </div>
+        </div>
+        <div class="card" style="flex:1; min-width:220px;">
+          <h3>Intermediate: Forces and Motion</h3>
+          <div class="video-wrapper">
+            <iframe src="https://www.youtube.com/embed/CfxfW64P04s" title="Forces and Motion" allowfullscreen></iframe>
+          </div>
+        </div>
+        <div class="card" style="flex:1; min-width:220px;">
+          <h3>Intermediate: Chemical Reactions and Equations</h3>
+          <div class="video-wrapper">
+            <iframe src="https://www.youtube.com/embed/g1p-5XcHRCs" title="Chemical Reactions and Equations" allowfullscreen></iframe>
+          </div>
+        </div>
+
+        <!-- ADVANCED -->
+        <div class="card" style="flex:1; min-width:220px;">
+          <h3>Advanced: Genetics and DNA</h3>
+          <div class="video-wrapper">
+            <iframe src="https://www.youtube.com/embed/j2m4hkOJR2M" title="Genetics and DNA" allowfullscreen></iframe>
+          </div>
+        </div>
+        <div class="card" style="flex:1; min-width:220px;">
+          <h3>Advanced: Thermodynamics and Laws of Motion</h3>
+          <div class="video-wrapper">
+            <iframe src="https://www.youtube.com/embed/5QXTj_MqmcY" title="Thermodynamics and Laws of Motion" allowfullscreen></iframe>
+          </div>
+        </div>
+        <div class="card" style="flex:1; min-width:220px;">
+          <h3>Advanced: Atomic Structure and Quantum Mechanics</h3>
+          <div class="video-wrapper">
+            <iframe src="https://www.youtube.com/embed/-fDGTc821L8" title="Atomic Structure and Quantum Mechanics" allowfullscreen></iframe>
+          </div>
+        </div>
+      </div>
+      </div>
+    </div>
+
+    <div id="quiz" class="panel hidden">
+      <div class="card">
+        <h2>Quiz</h2>
+        <div class="small">Click start to begin quiz. You will have 30 minutes.</div>
+
+        <div class="level-timer-wrapper">
+          <div class="level-tabs">
+            <div class="level active" data-level="basic">Basic</div>
+            <div class="level" data-level="intermediate">Intermediate</div>
+            <div class="level" data-level="advanced">Advanced</div>
+          </div>
+          <div class="timer" id="timer">Time: --</div>
+        </div>
+
+        <button id="start-btn" class="submit-btn">Start Quiz</button>
+
+
+        <form id="quiz-form" class="hidden">
+          <div id="quiz-container"></div>
+          <button type="submit" class="submit-btn">Submit Quiz</button>
+        </form>
+        <div class="score hidden" id="score"></div>
+      </div>
+    </div>
+
+    <footer style="text-align:center; font-size:0.9rem; color:#666;">
+      <div>Learning App Prototype • Expandable to dynamic content and tracking.</div>
+    </footer>
+  </div>
+
+    
+  <script src="./js/science.js">  </script>
+
+</body>
+</html>
