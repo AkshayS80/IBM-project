@@ -74,7 +74,7 @@ This app simplifies learning by:
 
 Built by The Matrix with 💙 for IBM SkillsBuild Project 2025.
 
-## The Memebers
+## The Members
 1. Akshay Sharma
 2. Arijit Dey
 3. Sanjana Verma
