@@ -1,5 +1,5 @@
 
-# IBM Student Learning App – Smart Quiz System
+# Student Learning App – ThinkScholars-Education-Website
 
 This project is a **modular, adaptive learning platform** built to assist students in mastering academic subjects through interactive quizzes, immediate feedback, and performance-based insights.
 
